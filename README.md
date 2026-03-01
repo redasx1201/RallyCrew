@@ -47,3 +47,12 @@ RallyCrew uses a unified backend powered by Supabase. Both the web application (
 - Centralized API logic
 
 This architecture ensures consistency across platforms and simplifies long-term maintenance.
+
+## Running the Project
+To run your project, navigate to the directory and run one of the following pnpm commands.
+
+- cd mobile
+- pnpm run android
+- pnpm run ios
+- pnpm run web
+- pnpm --filter mobile start
